@@ -1,0 +1,2 @@
+token deploy address = 0x99a89D06e49e2Ea951804681D66933247AD3F079
+token vault address = 0x1e268aF4397fdBBe54CeE58b280C1D86f861b3bD
